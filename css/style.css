@@ -1,0 +1,31 @@
+html, body{
+    margin: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+
+/*------- Global Classes -------*/
+
+a{
+    text-decoration: none;
+}
+
+/*---x--- Global Classes ---x---*/
+
+/*------- navbar -------*/
+
+.nav{
+    background: white;
+    padding: 0.2rem;
+    height: 0rem;
+    min-height: 40vh;
+    overflow: hidden;
+}
+
+.nav-brand a{
+    font-size: 1.6rem;
+    padding: 1rem 0;
+}
+
+/*---x--- navbar ---x---*/
